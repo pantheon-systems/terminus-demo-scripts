@@ -1,0 +1,3 @@
+# Managed by github-terraform — do not edit manually
+* @pantheon-systems/pre-sales
+.github/CODEOWNERS @pantheon-systems/delivery-engineering
